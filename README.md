@@ -7,9 +7,10 @@
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-tammam&show_icons=true&locale=en&layout=compact" alt="omar-tammam" /></p>
 -->
-<div style="width:34.5%;display:inline-block;"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-tammam&show_icons=true&locale=en&count_private=true&hide=stars,issues&theme=dracula" alt="omar-tammam" /></p></div>
 
-<div style="width:50%;display:inline-block;"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-tammam&" alt="omar-tammam" /></p>
+<div style="width:50%;display:inline-block;"><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-tammam&show_icons=true&locale=en&count_private=true&hide=stars,issues&theme=dracula" alt="omar-tammam" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-tammam&" alt="omar-tammam" /></p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
