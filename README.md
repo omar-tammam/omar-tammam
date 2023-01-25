@@ -8,8 +8,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-tammam&show_icons=true&locale=en&layout=compact" alt="omar-tammam" /></p>
 -->
 <p>
-<img  style="width:430px;" src="https://github-readme-stats.vercel.app/api?username=omar-tammam&show_icons=true&locale=en&count_private=true&hide=stars,issues&theme=dracula" alt="omar-tammam" />
-<img  style="width:350px;" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-tammam&theme=dracula" alt="omar-tammam" />
+<img  style="width:49%" src="https://github-readme-stats.vercel.app/api?username=omar-tammam&show_icons=true&locale=en&count_private=true&hide=stars,issues&theme=dracula" alt="omar-tammam" />
+<img  style="width:40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-tammam&theme=dracula" alt="omar-tammam" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
