@@ -7,8 +7,9 @@
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-tammam&show_icons=true&locale=en&layout=compact" alt="omar-tammam" /></p>
 -->
+<div style="width:34.5%;display:inline-block;"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-tammam&show_icons=true&locale=en&count_private=true&hide=stars,issues&theme=dracula" alt="omar-tammam" /></p></div>
 
-<div><p><img  align="center" style="width:400px;" src="https://github-readme-stats.vercel.app/api?username=omar-tammam&show_icons=true&locale=en&count_private=true" alt="omar-tammam" /> <img align="center"style="width:430px;" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-tammam&" alt="omar-tammam" /></p>
+<div style="width:50%;display:inline-block;"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-tammam&" alt="omar-tammam" /></p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +22,4 @@
 <a href="https://linkedin.com/in/omar-tammam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-tammam" height="30" width="40" /></a>
 </p>
 -->
+
