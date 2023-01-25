@@ -8,7 +8,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-tammam&show_icons=true&locale=en&layout=compact" alt="omar-tammam" /></p>
 -->
 
-<div style="width:50%;display:inline-block;"><p><img  align="center" style="" src="https://github-readme-stats.vercel.app/api?username=omar-tammam&show_icons=true&locale=en&count_private=true" alt="omar-tammam" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-tammam&" alt="omar-tammam" /></p>
+<div><p><img  align="center" style="width:400px;" src="https://github-readme-stats.vercel.app/api?username=omar-tammam&show_icons=true&locale=en&count_private=true" alt="omar-tammam" /> <img align="center"style="width:430px;" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-tammam&" alt="omar-tammam" /></p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
