@@ -5,7 +5,7 @@
 <p align="left">
 <br>
 <img src="https://komarev.com/ghpvc/?username=omar-tammam&label=Profile%20views&color=0e75b6&style=flat" alt="omar-tammam" /> 
-<a href="https://stackoverflow.com/users/11236563/omar-tammam"><img src="https://stackoverflow.com/users/flair/11236563.png" width="208" height="58" alt="profile for Omar Tammam at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Omar Tammam at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> 
+<a href="https://stackoverflow.com/users/11236563/omar-tammam?theme=dark"><img src="https://stackoverflow.com/users/flair/11236563.png?theme=dark" width="208" height="58" alt="profile for Omar Tammam at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Omar Tammam at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> 
 <br>
 <img  style="width:49%" src="https://github-readme-stats.vercel.app/api?username=omar-tammam&show_icons=true&locale=en&count_private=true&hide=stars,issues&theme=dracula" alt="omar-tammam" />
 <img  style="width:40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-tammam&theme=dracula" alt="omar-tammam" />
